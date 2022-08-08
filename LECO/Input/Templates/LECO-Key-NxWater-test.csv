@@ -1,0 +1,41 @@
+﻿Set ID (Required),Sample Type (Required),Name (Required),Method name (Required),Description (Optional),Replicate ID (Optional),Mass,Comments (Optional),Operator (Optional),Auto Loader Location
+1,Sample,1,CORN LEAF,Shoots,6/9/2021,0.1245,216,,B1
+1,Sample,1,CORN LEAF,Shoots,6/9/2021,0.1246,216,,B2
+2,Sample,2,CORN LEAF,Shoots,6/9/2021,0.1212,323,,B3
+2,Sample,2,CORN LEAF,Shoots,6/9/2021,0.1279,323,,B4
+3,Sample,3,CORN LEAF,Shoots,6/9/2021,0.1022,311,,B5
+3,Sample,3,CORN LEAF,Shoots,6/9/2021,0.1227,311,,B6
+4,Sample,4,CORN LEAF,Shoots,6/9/2021,0.124,114,,B7
+4,Sample,4,CORN LEAF,Shoots,6/9/2021,0.1231,114,,B8
+5,Sample,5,CORN LEAF,Shoots,6/9/2021,0.1261,313,,B9
+5,Sample,5,CORN LEAF,Shoots,6/9/2021,0.127,313,,B10
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
